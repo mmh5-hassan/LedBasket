@@ -1,6 +1,5 @@
 # LED Basket Game
 
-![Gameplay](gameplay.gif)
 
 ## Description
 
