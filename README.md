@@ -9,7 +9,7 @@ LED Basket is a simple game built on the Microbit platform. The objective of the
 
 - Catch falling LED by moving the basket left and right.
 - Increase your score by catching more LED's.
-- Game speed should increase every 30 seconds up to 5x difficulty
+- Game speed increases with points
 - Player has 3 lives and the game ends when you miss catching an LED 3 times.
 
 ## How to Play
